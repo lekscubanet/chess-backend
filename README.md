@@ -5,6 +5,8 @@
 
 Новое лобби для игры создается через Get запрос, остальное общение с клиентом через Websocket.
 
+[Клиент](https://github.com/lekscubanet/chess-client)
+
 ## Project setup
 
 ```bash
